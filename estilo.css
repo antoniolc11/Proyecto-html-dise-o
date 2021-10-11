@@ -1,0 +1,97 @@
+/* Estilo para el index */
+
+* {
+    box-sizing:border-box;
+}
+
+#cabeceraprincipal{
+    text-align: center;
+    border: 2px solid;
+    font-size: 25px;
+}
+
+#navegacionprincipal{
+    border: 2px solid;
+    font-size: 25px;
+    text-align: center;  
+}
+
+#navprincipal{
+    display: inline;
+}
+
+#imagenprincipal{
+    width: 100%;
+}
+
+#sectionprincipal{
+    border: 2px solid;  
+}
+
+#piedepagina{
+    border: 2px solid;
+    text-align: center;
+    min-height: 100px;
+}
+
+/*Estilo para la pagina "modamujer" y  "modahombre" */
+
+#cabeceramodamujer{
+    text-align: center;
+    border: 2px solid;
+    font-size: 25px;
+}
+
+#barralateral{
+    float: left;
+    border: 2px solid;
+    width: 15%;
+    min-height: 628px;
+}
+
+#desplegable{
+    padding: 10px;
+    width: 100%;
+}
+
+#sectionmoda{
+    border: 2px solid;
+    float: left;
+    width: 85%;
+    min-height: 629px;
+}
+
+/*Estilo para la pagina Promociones */
+
+#headerpromociones{
+    border: 2px solid;
+    width: 100%;
+    text-align: center;
+}
+
+#sectionpromociones{
+    border: 2px solid;
+    width: 100%;
+    min-height: 670px;
+}
+
+/*Estilo para la pagina Contacto*/
+
+#cuerpocontacto{
+    background-image:url("/imagenes/fondocontacto.jpeg");
+    background-size: 100%;
+}
+
+#cabeceracontacto{
+    border: 2px solid;
+    width: 100%;
+    text-align: center;
+}
+
+#contactosesion{
+    border: 2px solid;
+    width: 100%;
+    text-align: center;
+    padding: 100px;
+    min-height: 600px;
+}
